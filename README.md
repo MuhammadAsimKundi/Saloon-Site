@@ -10,7 +10,7 @@ Platform that help to Discover a world of personalized beauty at our hair salon.
 
 
 ## Optimizations
-One of the first thing I would optimize is the UX for user engagement. Provide clear calls-to-action (CTAs) for appointment scheduling or contacting the salon. Second I would Implement touch-friendly elements and gestures. lastly I would like to monitor and update website based on user feedback and evolving web standards .
+One of the first thing I would optimize is the UX for user engagement. Provide clear calls-to-action (CTAs) for appointment scheduling or contacting the salon. Second I would Implement touch-friendly elements and gestures. lastly I would like to monitor and update website based on user feedback and evolving web standards.
 
 ## Lessons Learned
 
@@ -20,9 +20,9 @@ Takeaway: Implement interactive features such as image sliders, form validation,
 ## Demo Login
 
 
-Demo Email: demo@demo.com
+Demo Email: demosaloon@gmail.com
 
-Demo password: demo
+Demo password: demosaloon
 
 
 
